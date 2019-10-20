@@ -4,3 +4,18 @@
 This template contains `Webpack`, `Babel` and `React` configs.
 
 ### Version 1.0.0
+
+
+###step by step
+1. git clone this link
+```git clone https://github.com/olton/Metro4-React-App.git```
+
+2. run npm install
+```npm install```
+
+3. run yarn dev for development
+```yarn dev```
+
+4. happy hacking
+
+
